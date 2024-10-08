@@ -1,7 +1,7 @@
 # Welcome to My Backend Dropbox
 ***
 
-This application is hosted here: https://essohclone.netlify.app
+This application is hosted here: https://mybackenddrop.netlify.app
 
 My Dropbox is a web application built using ReactJS and Firebase that mimics the core functionalities of Dropbox. This project focuses on user authentication, file management, and profile customization, providing users with a seamless experience for managing their files in a Dropbox-like environment.
 
